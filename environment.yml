@@ -1,0 +1,11 @@
+name: OPAM
+channels:
+ - defaults
+dependencies:
+ - pandas
+ - scipy
+ - matplotlib
+ - seaborn
+ - plotly
+ - numpy
+
