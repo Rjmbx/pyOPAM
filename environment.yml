@@ -2,7 +2,7 @@ name: OPAM
 channels:
  - defaults
 dependencies:
- - pandas
+ - pandas=1.5.3
  - scipy
  - matplotlib
  - seaborn
